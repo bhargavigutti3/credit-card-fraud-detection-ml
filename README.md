@@ -76,6 +76,3 @@ Random Forest performed better in detecting fraudulent transactions compared to 
 - Deploy as a web app using Flask or Streamlit
 
 ---
-
-## 📁 Project Structure
-
